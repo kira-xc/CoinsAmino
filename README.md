@@ -1,0 +1,2 @@
+# CoinsAmino
+coins amino
